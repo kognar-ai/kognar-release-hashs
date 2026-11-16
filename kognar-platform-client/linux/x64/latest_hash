@@ -1,6 +1,6 @@
 latest:
-    hash: 434f5cfaafff3533f61809f252f1116ec1da2e7db55a3b8ce41cc5611619e722
+    hash: f91b9f345a1682b71bb00f39df7a742ac6c88a4ed384959ed7427d6213bcaac7
     algorithm: sha256
-    version: 1.6.6
+    version: 1.6.7
     file: latest-x86_64.AppImage
-    size: 277.88 MB
+    size: 277.90 MB

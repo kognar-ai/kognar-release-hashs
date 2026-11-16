@@ -1,6 +1,6 @@
 latest:
-    hash: 6d927ffaff204a69a2ac41c01a4a5bbdf01a54f6cf257d5c3d7bce2cfeb42d3a
+    hash: 0441f61a33d288604d9abf3b035ff2c84a7b17a92fc9a5ff7d4998010f0d0ff3
     algorithm: sha256
-    version: 1.6.6
+    version: 1.6.7
     file: latest-x64-setup.exe
-    size: 209.00 MB
+    size: 209.03 MB
